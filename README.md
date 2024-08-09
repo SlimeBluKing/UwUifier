@@ -1,5 +1,8 @@
 # UwUifier - UwUify youw messages ヾ(≧▽≦*)o
 
+[![NuGet](https://img.shields.io/nuget/v/UwUifier.svg?label=NuGet)](https://nuget.org/packages/UwUifier)
+[![Discord Server](https://img.shields.io/discord/1219353398307065986.svg?label=Discord&color=506de2)](https://discord.gg/wKAbqUPUSZ)
+
 ## Overview
 
 The UwUifier library is a playful tool designed to transform plain text into the whimsical and charming "UwU" style, often seen in various online communities and memes. This C# library provides a simple extension method for strings to convert regular text by modifying certain characters and adding cute emoticons.
